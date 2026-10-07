@@ -4,6 +4,8 @@ les 5 mediacollege sd
 ## toevoegen
 dit heb ik toegevoegd
 
+### pizza margherita
+
 Bereid het pizzadeeg volgens het recept of de verpakking.
 
 
@@ -36,4 +38,4 @@ Garneer de zelfgemaakte pizza margherita met verse basilicum.
 
 
 
-[leuk plaatje](https://www.leukerecepten.nl/app/uploads/2023/02/pizza-margharita.jpg)
+[leuk plaatje](/media/pizza-margharita.jpg)
